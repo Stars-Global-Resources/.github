@@ -1,5 +1,5 @@
 <img width="100%" alt="Sinar Terang Group" src="https://sinarterangmandiri.com/wp-content/uploads/2024/11/DJI_0776-Copy-scaled.jpg"/>
-<h1 align="center">Sinar Terang Mandiri</h1>
+<h1 align="center">PT Stars Global Resources Indonesia</h1>
 <h3 align="center">A modern and professional company focussing on mining and infrastructure projects in Indonesia</h3>
 
 
